@@ -1,0 +1,78 @@
+`timescale 1ns/1ps  
+module testbench_operator_tree();
+
+reg clk;
+reg[1:0] x_value;
+wire[1:0] product_one;
+wire ri_mul_one;
+wire[1:0] STATE_mul_one,STATE_div;
+wire write_enable_mul_one;
+wire[6:0] computation_cycle_mul_one;
+wire[8:0] cnt_mul_one;
+
+Multiplier mul1(x_value,x_value,product_one,clk,ri_mul_one,STATE_mul_one,write_enable_mul_one,computation_cycle_mul_one,cnt_mul_one);
+
+
+
+
+
+
+
+
+
+
+
+//outpu logic
+
+	always@(*)begin
+			if(STATE_mul_one==2'b11||(STATE_mul_one==2'b00&&cnt_mul_one!=9'b0000&&computation_cycle_mul_one!=7'b1)) begin
+				mul_output_ready<=1'b1;
+			end
+			else begin
+				mul_output_ready<=1'b0;
+			end
+/*			if((STATE_div==2'b11&&fixing_div!=1'b1)||(STATE==2'b10&&(cnt_div==9'b100||cnt_div==9'b11))) begin
+				div_output_ready<=1'b1;
+			end
+			else begin
+				div_output_ready<=1'b0;
+			end*/
+	end
+	
+
+
+
+// reading files
+integer data_in_file_mul;
+integer scan_file_mul;
+integer data_out_file_mul;
+integer data_in_file_div;
+integer scan_file_div;
+integer data_out_file_div;
+
+initial begin
+  data_in_file_mul=$fopen("H:/UROP research/verilog/src_newton/x_value.txt","r");
+  data_out_file_mul=$fopen("H:/UROP research/verilog/Newton_method/output_mul.dat","w");
+  data_in_file_div=$fopen("H:/UROP research/verilog/src_newton/constant.txt","r");
+  data_out_file_div=$fopen("H:/UROP research/verilog/Newton_method/output_div.dat","w");
+end
+
+always@(posedge clk) begin
+	if(read_indicator_mul)
+		scan_file_mul=$fscanf(data_in_file_mul,"%b",x_value);
+	 
+	if(mul_output_ready)
+		$fwrite(data_out_file_mul,"%b\n",p);
+		
+	if(read_indicator_div)begin
+		scan_file_div=$fscanf(data_in_file_div,"%b %b",numerator,divisor);
+	end
+	if(div_output_ready) begin
+		$fwrite(data_out_file_div,"%b\n",q_value);
+	//	$fwrite(cycle_num_out_file,"%d\n",cycle_num);
+	//	$fflush(cycle_num_out_file);
+	end
+		
+		
+		
+end

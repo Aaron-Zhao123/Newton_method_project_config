@@ -1,0 +1,1036 @@
+m255
+K3
+13
+cModel Technology
+Z0 dH:\UROP research\verilog\Online_multiplier_arbitary_precision_new
+vAdder_control_logic
+Z1 !s100 YNYNnmnzQ<PkDJ;Qz^3;62
+Z2 IS6z`FN7z9REV=M6=BLUTm2
+Z3 VgG>dX7Ak]CO]jjnlK>h8K2
+Z4 dH:\UROP research\verilog\Newton_method
+Z5 w1441969266
+Z6 8H:/UROP research/verilog/src_newton/multiplier/Adder_control_logic.v
+Z7 FH:/UROP research/verilog/src_newton/multiplier/Adder_control_logic.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s108 1442482435.863000
+Z10 !s107 H:/UROP research/verilog/src_newton/multiplier/x_string_delay_control.v|H:/UROP research/verilog/src_newton/multiplier/v_value_ram.v|H:/UROP research/verilog/src_newton/multiplier/single_clk_ram_mul.v|H:/UROP research/verilog/src_newton/multiplier/on_line_adder_block.v|H:/UROP research/verilog/src_newton/multiplier/nine_bits_adder.v|H:/UROP research/verilog/src_newton/multiplier/generate_CA_REG_mul.v|H:/UROP research/verilog/src_newton/multiplier/full_adder.v|H:/UROP research/verilog/src_newton/multiplier/four_to_two_adder.v|H:/UROP research/verilog/src_newton/multiplier/four_bits_parallel_adder.v|H:/UROP research/verilog/src_newton/multiplier/four_bits_adder.v|H:/UROP research/verilog/src_newton/multiplier/counter.v|H:/UROP research/verilog/src_newton/multiplier/computation_control_mul.v|H:/UROP research/verilog/src_newton/multiplier/Selection.v|H:/UROP research/verilog/src_newton/multiplier/Sample_V.v|H:/UROP research/verilog/src_newton/multiplier/SDVM_mul.v|H:/UROP research/verilog/src_newton/multiplier/Multiplier_stage_two.v|H:/UROP research/verilog/src_newton/multiplier/Multiplier_four.v|H:/UROP research/verilog/src_newton/multiplier/Multiplier.v|H:/UROP research/verilog/src_newton/multiplier/M_block.v|H:/UROP research/verilog/src_newton/multiplier/D_FF_two_bits.v|H:/UROP research/verilog/src_newton/multiplier/D_FF_four_bits_enable.v|H:/UROP research/verilog/src_newton/multiplier/D_FF_four_bits.v|H:/UROP research/verilog/src_newton/multiplier/CA_REG_test.v|H:/UROP research/verilog/src_newton/multiplier/Adder_control_logic.v|
+Z11 !s90 -reportprogress|300|-work|work|-O0|H:/UROP research/verilog/src_newton/multiplier/Adder_control_logic.v|H:/UROP research/verilog/src_newton/multiplier/CA_REG_test.v|H:/UROP research/verilog/src_newton/multiplier/D_FF_four_bits.v|H:/UROP research/verilog/src_newton/multiplier/D_FF_four_bits_enable.v|H:/UROP research/verilog/src_newton/multiplier/D_FF_two_bits.v|H:/UROP research/verilog/src_newton/multiplier/M_block.v|H:/UROP research/verilog/src_newton/multiplier/Multiplier.v|H:/UROP research/verilog/src_newton/multiplier/Multiplier_four.v|H:/UROP research/verilog/src_newton/multiplier/Multiplier_stage_two.v|H:/UROP research/verilog/src_newton/multiplier/SDVM_mul.v|H:/UROP research/verilog/src_newton/multiplier/Sample_V.v|H:/UROP research/verilog/src_newton/multiplier/Selection.v|H:/UROP research/verilog/src_newton/multiplier/computation_control_mul.v|H:/UROP research/verilog/src_newton/multiplier/counter.v|H:/UROP research/verilog/src_newton/multiplier/four_bits_adder.v|H:/UROP research/verilog/src_newton/multiplier/four_bits_parallel_adder.v|H:/UROP research/verilog/src_newton/multiplier/four_to_two_adder.v|H:/UROP research/verilog/src_newton/multiplier/full_adder.v|H:/UROP research/verilog/src_newton/multiplier/generate_CA_REG_mul.v|H:/UROP research/verilog/src_newton/multiplier/nine_bits_adder.v|H:/UROP research/verilog/src_newton/multiplier/on_line_adder_block.v|H:/UROP research/verilog/src_newton/multiplier/single_clk_ram_mul.v|H:/UROP research/verilog/src_newton/multiplier/v_value_ram.v|H:/UROP research/verilog/src_newton/multiplier/x_string_delay_control.v|
+Z12 o-work work -O0
+Z13 n@adder_control_logic
+!i10b 1
+!s85 0
+!s101 -O0
+vadder_test
+Z14 IdS;D3B0E95F>KJHRmM:f61
+Z15 V63jnSLP4`RkdHV9_6AlH53
+R4
+Z16 w1438089025
+Z17 8H:/UROP research/verilog/src/adder_test.v
+Z18 FH:/UROP research/verilog/src/adder_test.v
+L0 1
+R8
+r1
+31
+Z19 !s108 1441654026.668000
+Z20 !s107 H:/UROP research/verilog/src/x_string_delay_control.v|H:/UROP research/verilog/src/v_value_ram.v|H:/UROP research/verilog/src/tt.v|H:/UROP research/verilog/src/testbench.v|H:/UROP research/verilog/src/single_clk_ram.v|H:/UROP research/verilog/src/on_line_adder_block.v|H:/UROP research/verilog/src/nine_bits_adder.v|H:/UROP research/verilog/src/module single_clk_ram_tmp.v|H:/UROP research/verilog/src/generate_CA_REG.v|H:/UROP research/verilog/src/full_adder.v|H:/UROP research/verilog/src/four_to_two_adder.v|H:/UROP research/verilog/src/four_bits_parallel_adder.v|H:/UROP research/verilog/src/four_bits_adder.v|H:/UROP research/verilog/src/five_bits_parallel_adder.v|H:/UROP research/verilog/src/five_bits_adder.v|H:/UROP research/verilog/src/counter.v|H:/UROP research/verilog/src/computation_control.v|H:/UROP research/verilog/src/adder_test.v|H:/UROP research/verilog/src/Selection.v|H:/UROP research/verilog/src/Sample_V.v|H:/UROP research/verilog/src/SDVM.v|H:/UROP research/verilog/src/On_line_parallel_adder.v|H:/UROP research/verilog/src/Multiplier.v|H:/UROP research/verilog/src/M_block.v|H:/UROP research/verilog/src/D_FF_two_bits.v|H:/UROP research/verilog/src/D_FF_four_bits_enable.v|H:/UROP research/verilog/src/D_FF_four_bits.v|H:/UROP research/verilog/src/CA_REG_test.v|H:/UROP research/verilog/src/Adder_control_logic.v|
+Z21 !s90 -reportprogress|300|-work|work|-O0|H:/UROP research/verilog/src/Adder_control_logic.v|H:/UROP research/verilog/src/CA_REG_test.v|H:/UROP research/verilog/src/D_FF_four_bits.v|H:/UROP research/verilog/src/D_FF_four_bits_enable.v|H:/UROP research/verilog/src/D_FF_two_bits.v|H:/UROP research/verilog/src/M_block.v|H:/UROP research/verilog/src/Multiplier.v|H:/UROP research/verilog/src/On_line_parallel_adder.v|H:/UROP research/verilog/src/SDVM.v|H:/UROP research/verilog/src/Sample_V.v|H:/UROP research/verilog/src/Selection.v|H:/UROP research/verilog/src/adder_test.v|H:/UROP research/verilog/src/computation_control.v|H:/UROP research/verilog/src/counter.v|H:/UROP research/verilog/src/five_bits_adder.v|H:/UROP research/verilog/src/five_bits_parallel_adder.v|H:/UROP research/verilog/src/four_bits_adder.v|H:/UROP research/verilog/src/four_bits_parallel_adder.v|H:/UROP research/verilog/src/four_to_two_adder.v|H:/UROP research/verilog/src/full_adder.v|H:/UROP research/verilog/src/generate_CA_REG.v|H:/UROP research/verilog/src/module single_clk_ram_tmp.v|H:/UROP research/verilog/src/nine_bits_adder.v|H:/UROP research/verilog/src/on_line_adder_block.v|H:/UROP research/verilog/src/single_clk_ram.v|H:/UROP research/verilog/src/testbench.v|H:/UROP research/verilog/src/tt.v|H:/UROP research/verilog/src/v_value_ram.v|H:/UROP research/verilog/src/x_string_delay_control.v|
+R12
+Z22 !s100 GWb^NfUckURcIc4f6zQO[2
+!i10b 1
+!s85 0
+!s101 -O0
+vCA_REG_test
+Z23 !s100 7^@KcZYGDWI79YnWCIUdU3
+Z24 IX?K?kiNQYSFo=FV788EdL3
+Z25 VIL9o^GLm>E0o>0LGYzk5Z1
+R4
+Z26 w1438181382
+Z27 8H:/UROP research/verilog/src_newton/multiplier/CA_REG_test.v
+Z28 FH:/UROP research/verilog/src_newton/multiplier/CA_REG_test.v
+L0 1
+R8
+r1
+31
+R9
+R10
+R11
+R12
+Z29 n@c@a_@r@e@g_test
+!i10b 1
+!s85 0
+!s101 -O0
+vcomputation_control
+Z30 !s100 dk[ToRok25aZYWU0hedn]1
+Z31 IV;<Qf[2iUS972[z]I8_nn0
+Z32 V4In>LFNG0OHJ6[N`g2>a;2
+R4
+Z33 w1441992325
+Z34 8H:/UROP research/verilog/src_newton/divider/computation_control.v
+Z35 FH:/UROP research/verilog/src_newton/divider/computation_control.v
+L0 1
+R8
+r1
+31
+Z36 !s108 1442482437.336000
+Z37 !s107 H:/UROP research/verilog/src_newton/divider/w_value_ram.v|H:/UROP research/verilog/src_newton/divider/w_value_logic_fix.v|H:/UROP research/verilog/src_newton/divider/six_bits_adder.v|H:/UROP research/verilog/src_newton/divider/single_clk_ram_2bit.v|H:/UROP research/verilog/src_newton/divider/single_clk_ram.v|H:/UROP research/verilog/src_newton/divider/q_vec_control.v|H:/UROP research/verilog/src_newton/divider/generate_CA_REG.v|H:/UROP research/verilog/src_newton/divider/computation_control.v|H:/UROP research/verilog/src_newton/divider/V_value_logic.v|H:/UROP research/verilog/src_newton/divider/V_block.v|H:/UROP research/verilog/src_newton/divider/SDVM_3bit.v|H:/UROP research/verilog/src_newton/divider/SDVM.v|H:/UROP research/verilog/src_newton/divider/On_line_divider_stage_two.v|H:/UROP research/verilog/src_newton/divider/On_line_divider.v|
+Z38 !s90 -reportprogress|300|-work|work|-O0|H:/UROP research/verilog/src_newton/divider/On_line_divider.v|H:/UROP research/verilog/src_newton/divider/On_line_divider_stage_two.v|H:/UROP research/verilog/src_newton/divider/SDVM.v|H:/UROP research/verilog/src_newton/divider/SDVM_3bit.v|H:/UROP research/verilog/src_newton/divider/V_block.v|H:/UROP research/verilog/src_newton/divider/V_value_logic.v|H:/UROP research/verilog/src_newton/divider/computation_control.v|H:/UROP research/verilog/src_newton/divider/generate_CA_REG.v|H:/UROP research/verilog/src_newton/divider/q_vec_control.v|H:/UROP research/verilog/src_newton/divider/single_clk_ram.v|H:/UROP research/verilog/src_newton/divider/single_clk_ram_2bit.v|H:/UROP research/verilog/src_newton/divider/six_bits_adder.v|H:/UROP research/verilog/src_newton/divider/w_value_logic_fix.v|H:/UROP research/verilog/src_newton/divider/w_value_ram.v|
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vcomputation_control_mul
+Z39 !s100 DT`>RIgA8=6ea4?glIG4`0
+Z40 IHCGnachh92gQEaG9oQV9V0
+Z41 V^MLgH70c6gc<onA_^miHQ2
+R4
+Z42 w1441657820
+Z43 8H:/UROP research/verilog/src_newton/multiplier/computation_control_mul.v
+Z44 FH:/UROP research/verilog/src_newton/multiplier/computation_control_mul.v
+L0 1
+R8
+r1
+31
+R9
+R10
+R11
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vcounter
+Z45 !s100 6H6InB^H]>^<L^9ZJn5[92
+Z46 IVFhi[hW^GK<iGb:8kJ8[N1
+Z47 VO:T0:>DI0BY`h=3<3f6C<0
+R4
+Z48 w1441991691
+Z49 8H:/UROP research/verilog/src_newton/multiplier/counter.v
+Z50 FH:/UROP research/verilog/src_newton/multiplier/counter.v
+L0 1
+R8
+r1
+31
+R9
+R10
+R11
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vD_FF_four_bits
+Z51 !s100 0V2N51NQS3A3O1UB8LSk70
+Z52 Ie;C?686zk]RzJ<DMnT7`a1
+Z53 V^hHlZTW5;<mon8hG[Z<lT3
+R4
+Z54 w1441973412
+Z55 8H:/UROP research/verilog/src_newton/multiplier/D_FF_four_bits.v
+Z56 FH:/UROP research/verilog/src_newton/multiplier/D_FF_four_bits.v
+L0 1
+R8
+r1
+31
+R9
+R10
+R11
+R12
+Z57 n@d_@f@f_four_bits
+!i10b 1
+!s85 0
+!s101 -O0
+vD_FF_four_bits_enable
+Z58 !s100 3jALBa`VOOFB98Dz>TaCP1
+Z59 IL>=0Vz?n;;A`SUNC4Fke;0
+Z60 VfJ:_Sn7zbV^=^2hlNFiT93
+R4
+Z61 w1438782743
+Z62 8H:/UROP research/verilog/src_newton/multiplier/D_FF_four_bits_enable.v
+Z63 FH:/UROP research/verilog/src_newton/multiplier/D_FF_four_bits_enable.v
+L0 1
+R8
+r1
+31
+R9
+R10
+R11
+R12
+Z64 n@d_@f@f_four_bits_enable
+!i10b 1
+!s85 0
+!s101 -O0
+vD_FF_two_bits
+Z65 !s100 eI6c:`F7fYRc@E_j]^gS=0
+Z66 IfYS]>QzLhgNCgCz3Lh>Ae3
+Z67 VL^gE^gPGISV6IiOJ[IhBg3
+R4
+Z68 w1441973422
+Z69 8H:/UROP research/verilog/src_newton/multiplier/D_FF_two_bits.v
+Z70 FH:/UROP research/verilog/src_newton/multiplier/D_FF_two_bits.v
+L0 1
+R8
+r1
+31
+R9
+R10
+R11
+R12
+Z71 n@d_@f@f_two_bits
+!i10b 1
+!s85 0
+!s101 -O0
+vD_flipflop
+Z72 !s100 UB3SSW:kJTMmQ6nR_heA60
+Z73 IIm7doI>?iK>=:Sl:lCUFB3
+Z74 V:FOhM`@J<3>KkoICc2=ZP2
+R4
+Z75 w1441549307
+Z76 8H:/UROP research/verilog/src_newton/adder/D_flipflop.v
+Z77 FH:/UROP research/verilog/src_newton/adder/D_flipflop.v
+L0 1
+R8
+r1
+31
+Z78 !s90 -reportprogress|300|-work|work|-O0|H:/UROP research/verilog/src_newton/adder/D_flipflop.v|
+R12
+Z79 n@d_flipflop
+Z80 !s108 1442482438.338000
+Z81 !s107 H:/UROP research/verilog/src_newton/adder/D_flipflop.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vfive_bits_adder
+Z82 I?ZOQ]0SzNOi^zTWzYFbAA3
+Z83 VJEUFG6C^iVU>8BBAfZFaz1
+R4
+Z84 w1438706899
+Z85 8H:/UROP research/verilog/src/five_bits_adder.v
+Z86 FH:/UROP research/verilog/src/five_bits_adder.v
+L0 1
+R8
+r1
+31
+R19
+R20
+R21
+R12
+Z87 !s100 Yj]BP5XI8oD2PLmVXZfjl0
+!i10b 1
+!s85 0
+!s101 -O0
+vfive_bits_parallel_adder
+Z88 IC;eoeJY^A=FlglagZ@NK32
+Z89 VX`>;eHb<4[1PAo1McW_XW3
+R4
+Z90 w1438693967
+Z91 8H:/UROP research/verilog/src/five_bits_parallel_adder.v
+Z92 FH:/UROP research/verilog/src/five_bits_parallel_adder.v
+L0 1
+R8
+r1
+31
+R19
+R20
+R21
+R12
+Z93 !s100 BC3OiTUXX3ih^Ib1IIUfT3
+!i10b 1
+!s85 0
+!s101 -O0
+vfour_bits_adder
+Z94 !s100 HlZo0=9BjQkGKkO;Y1FjR1
+Z95 ITiA:mSn5c?Xil;XJg7H_33
+Z96 VEM8gHEH8Q93AZ_<KBN5JU2
+R4
+Z97 w1438706882
+Z98 8H:/UROP research/verilog/src_newton/multiplier/four_bits_adder.v
+Z99 FH:/UROP research/verilog/src_newton/multiplier/four_bits_adder.v
+L0 1
+R8
+r1
+31
+R9
+R10
+R11
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vfour_bits_parallel_adder
+Z100 !s100 390HGCo=dCVf28eHRFf`H3
+Z101 I]SBNXRToMn5TnA6D5GN:J1
+Z102 V:@Y`^J5?]]0`JWH_AJ6172
+R4
+Z103 w1441640643
+Z104 8H:/UROP research/verilog/src_newton/multiplier/four_bits_parallel_adder.v
+Z105 FH:/UROP research/verilog/src_newton/multiplier/four_bits_parallel_adder.v
+L0 1
+R8
+r1
+31
+R9
+R10
+R11
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vfour_to_two_adder
+Z106 !s100 V0g;B>U5bDLU094YNC;1A3
+Z107 I^YlNmC9Ga2dLU2;z@RhGT0
+Z108 VY_gc:kFS6MU3`2VPal^d@2
+R4
+Z109 w1438016239
+Z110 8H:/UROP research/verilog/src_newton/multiplier/four_to_two_adder.v
+Z111 FH:/UROP research/verilog/src_newton/multiplier/four_to_two_adder.v
+L0 1
+R8
+r1
+31
+R9
+R10
+R11
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vfull_adder
+Z112 InNbg:TkACARAPX8IjnSl[0
+Z113 VY<ik;mLW>j9l4DLC>lZ8;0
+R4
+Z114 w1435575119
+Z115 8H:/UROP research/verilog/src_newton/adder/full_adder.v
+Z116 FH:/UROP research/verilog/src_newton/adder/full_adder.v
+L0 1
+R8
+r1
+31
+R12
+Z117 !s100 3DiPTIRmB;0za5GYOfe:N0
+Z118 !s108 1442482438.530000
+Z119 !s107 H:/UROP research/verilog/src_newton/adder/full_adder.v|
+Z120 !s90 -reportprogress|300|-work|work|-O0|H:/UROP research/verilog/src_newton/adder/full_adder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vgenerate_CA_REG
+Z121 !s100 dRT<Z9NEJ`C6F;o2YUlHn1
+Z122 INldzRKe`YXoZ`bQ`5J88X2
+Z123 VX`9ao^zmQbeO@0K7[iAZj2
+R4
+Z124 w1442066717
+Z125 8H:/UROP research/verilog/src_newton/divider/generate_CA_REG.v
+Z126 FH:/UROP research/verilog/src_newton/divider/generate_CA_REG.v
+L0 1
+R8
+r1
+31
+R36
+R37
+R38
+R12
+Z127 ngenerate_@c@a_@r@e@g
+!i10b 1
+!s85 0
+!s101 -O0
+vgenerate_CA_REG_mul
+Z128 !s100 gOK03i;T8VziEBA?niQQY0
+Z129 I?[@K04oh>WEU2`z4`Rb_^0
+Z130 VORYVD[Mi2d2Dmkj[NgmzR2
+R4
+Z131 w1442145426
+Z132 8H:/UROP research/verilog/src_newton/multiplier/generate_CA_REG_mul.v
+Z133 FH:/UROP research/verilog/src_newton/multiplier/generate_CA_REG_mul.v
+L0 1
+R8
+r1
+31
+R9
+R10
+R11
+R12
+Z134 ngenerate_@c@a_@r@e@g_mul
+!i10b 1
+!s85 0
+!s101 -O0
+vM_block
+Z135 !s100 I;OjCGfbT2LJ=<@a:W]?n1
+Z136 ISoaA25m2;Ck`XOZff43>i3
+Z137 V]C]ezKBKgSI_fMWB7=o9b3
+R4
+Z138 w1438871632
+Z139 8H:/UROP research/verilog/src_newton/multiplier/M_block.v
+Z140 FH:/UROP research/verilog/src_newton/multiplier/M_block.v
+L0 1
+R8
+r1
+31
+R9
+R10
+R11
+R12
+Z141 n@m_block
+!i10b 1
+!s85 0
+!s101 -O0
+vMultiplier
+Z142 !s100 bRPSKTWZVK?akN5hVCJbQ0
+Z143 IlV[gAOXc:8cJ<EQI72IF;0
+Z144 VW?PMQN=Lmn=X?2==@i66`1
+R4
+Z145 w1442475889
+Z146 8H:/UROP research/verilog/src_newton/multiplier/Multiplier.v
+Z147 FH:/UROP research/verilog/src_newton/multiplier/Multiplier.v
+L0 1
+R8
+r1
+31
+R9
+R10
+R11
+R12
+Z148 n@multiplier
+!i10b 1
+!s85 0
+!s101 -O0
+vMultiplier_four
+Z149 !s100 eO<zQ3n7`Im8B4^W1Cgca2
+Z150 I?imVK9SMZE<Y;S=9lB8ak2
+Z151 V`Tc?n`Q9LhiW0T5HK`4ER1
+R4
+Z152 w1442476946
+Z153 8H:/UROP research/verilog/src_newton/multiplier/Multiplier_four.v
+Z154 FH:/UROP research/verilog/src_newton/multiplier/Multiplier_four.v
+L0 1
+R8
+r1
+31
+R9
+R10
+R11
+R12
+Z155 n@multiplier_four
+!i10b 1
+!s85 0
+!s101 -O0
+vMultiplier_stage_two
+Z156 !s100 nMQHQWgj1<=nm[HMEn>e;0
+Z157 I4lb946^8;@iJB5LN:BceK0
+Z158 VS@Pl=V98C2^8AH8P6mE`01
+R4
+Z159 w1442436823
+Z160 8H:/UROP research/verilog/src_newton/multiplier/Multiplier_stage_two.v
+Z161 FH:/UROP research/verilog/src_newton/multiplier/Multiplier_stage_two.v
+L0 1
+R8
+r1
+31
+R9
+R10
+R11
+R12
+Z162 n@multiplier_stage_two
+!i10b 1
+!s85 0
+!s101 -O0
+vNewton_method
+!i10b 1
+Z163 !s100 `GiH?SeS_ONDc:CXn^zIV2
+Z164 IA=:AR:Cc[=B4ZOI3aA=PB3
+Z165 VOAVlbIbQXhzikj@WJd2A60
+R4
+Z166 w1442442865
+Z167 8H:/UROP research/verilog/Newton_method/Newton_method.v
+Z168 FH:/UROP research/verilog/Newton_method/Newton_method.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1442482439.460000
+!s107 H:/UROP research/verilog/Newton_method/Newton_method.v|
+Z169 !s90 -reportprogress|300|-work|work|-O0|H:/UROP research/verilog/Newton_method/Newton_method.v|
+!s101 -O0
+R12
+Z170 n@newton_method
+vnine_bits_adder
+Z171 !s100 LJEDMZcT[[[dEOYP<1Hd<0
+Z172 IYWJDza?2J64iLFR<PLDoS0
+Z173 VIE_bm6Xg7;OKBeQP=bDf>2
+R4
+Z174 w1438451202
+Z175 8H:/UROP research/verilog/src_newton/multiplier/nine_bits_adder.v
+Z176 FH:/UROP research/verilog/src_newton/multiplier/nine_bits_adder.v
+L0 1
+R8
+r1
+31
+R9
+R10
+R11
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vOn_line_adder
+Z177 !s100 R@EM0_oGHX<IX_cS=1jAY1
+Z178 I8][PHU8;;_Vl3zeSaJ[[H0
+Z179 V;TPL`O6@cK9Kb]ne;^7M^2
+R4
+Z180 w1441710556
+Z181 8H:/UROP research/verilog/src_newton/adder/On_line_adder.v
+Z182 FH:/UROP research/verilog/src_newton/adder/On_line_adder.v
+L0 1
+R8
+r1
+31
+Z183 !s90 -reportprogress|300|-work|work|-O0|H:/UROP research/verilog/src_newton/adder/On_line_adder.v|
+R12
+Z184 n@on_line_adder
+Z185 !s108 1442482438.153000
+Z186 !s107 H:/UROP research/verilog/src_newton/adder/On_line_adder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+von_line_adder_block
+Z187 !s100 ]1_<SY_F4dSYnWNM5>Ck50
+Z188 IRdk@7TGlR`lZS;gf:SVfT2
+Z189 V<7:j3QlVdDbNON;lP>F1B2
+R4
+Z190 w1438455275
+Z191 8H:/UROP research/verilog/src_newton/multiplier/on_line_adder_block.v
+Z192 FH:/UROP research/verilog/src_newton/multiplier/on_line_adder_block.v
+L0 1
+R8
+r1
+31
+R9
+R10
+R11
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vOn_line_divider
+Z193 !s100 VkH]jVCQj;=><C6]B7=9X2
+Z194 IdiR9ndPWf;z9N1MFY2TB`3
+Z195 VQgZT`V@S][>?1TDgA[60o3
+R4
+Z196 w1442434179
+Z197 8H:/UROP research/verilog/src_newton/divider/On_line_divider.v
+Z198 FH:/UROP research/verilog/src_newton/divider/On_line_divider.v
+L0 1
+R8
+r1
+31
+R36
+R37
+R38
+R12
+Z199 n@on_line_divider
+!i10b 1
+!s85 0
+!s101 -O0
+vOn_line_divider_stage_two
+Z200 !s100 fe<oc`WXBbRkhb9S3Sd`h2
+Z201 Ifgd`12C_``U4kdlkzX_MZ1
+Z202 VKlWjAA4R=ZNknUQ`6ch]L2
+R4
+Z203 w1442309631
+Z204 8H:/UROP research/verilog/src_newton/divider/On_line_divider_stage_two.v
+Z205 FH:/UROP research/verilog/src_newton/divider/On_line_divider_stage_two.v
+L0 1
+R8
+r1
+31
+R36
+R37
+R38
+R12
+Z206 n@on_line_divider_stage_two
+!i10b 1
+!s85 0
+!s101 -O0
+vOn_line_parallel_adder
+Z207 IDU]4GLlBO>Xij7z649lei2
+Z208 Vg;IaX0^;SJcD@b2fWePEI2
+R4
+Z209 w1438607762
+Z210 8H:/UROP research/verilog/src/On_line_parallel_adder.v
+Z211 FH:/UROP research/verilog/src/On_line_parallel_adder.v
+L0 1
+R8
+r1
+31
+R19
+R20
+R21
+R12
+Z212 n@on_line_parallel_adder
+Z213 !s100 D6zNz<5hH9ejCbe1oC`0g1
+!i10b 1
+!s85 0
+!s101 -O0
+vq_vec_control
+Z214 !s100 0Q?W?d69?P4mZf7Vjh7E_2
+Z215 I55F:j>c]>5<?hgJc`nSAO3
+Z216 V7j7dcg4oW4EnM95M9Aj]`1
+R4
+Z217 w1440367019
+Z218 8H:/UROP research/verilog/src_newton/divider/q_vec_control.v
+Z219 FH:/UROP research/verilog/src_newton/divider/q_vec_control.v
+L0 1
+R8
+r1
+31
+R36
+R37
+R38
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vSample_V
+Z220 !s100 G^mVnGFAFSQ0`cR^@moT20
+Z221 I<3b76fO`4mW=J=FRNQI5e0
+Z222 VNzcL1>OdXgE;D<3OFBVkQ1
+R4
+Z223 w1438681153
+Z224 8H:/UROP research/verilog/src_newton/multiplier/Sample_V.v
+Z225 FH:/UROP research/verilog/src_newton/multiplier/Sample_V.v
+L0 1
+R8
+r1
+31
+R9
+R10
+R11
+R12
+Z226 n@sample_@v
+!i10b 1
+!s85 0
+!s101 -O0
+vSDVM
+Z227 !s100 :2DBNhkA31o1>GGVVaW8d1
+Z228 I?P`@2H71i5G75V@UXbEo[3
+Z229 V2]BI2KCezjZO1BiFl6l<L3
+R4
+Z230 w1441656615
+Z231 8H:/UROP research/verilog/src_newton/divider/SDVM.v
+Z232 FH:/UROP research/verilog/src_newton/divider/SDVM.v
+L0 1
+R8
+r1
+31
+R36
+R37
+R38
+R12
+Z233 n@s@d@v@m
+!i10b 1
+!s85 0
+!s101 -O0
+vSDVM_3bit
+Z234 !s100 JdHHd9mjn1Q@5U8bX8ELk3
+Z235 I=;lCfZCK`2K3@DA>imj=o2
+Z236 VG?5k98O0C5CB:17`4W?Z21
+R4
+Z237 w1441979150
+Z238 8H:/UROP research/verilog/src_newton/divider/SDVM_3bit.v
+Z239 FH:/UROP research/verilog/src_newton/divider/SDVM_3bit.v
+L0 1
+R8
+r1
+31
+R36
+R37
+R38
+R12
+Z240 n@s@d@v@m_3bit
+!i10b 1
+!s85 0
+!s101 -O0
+vSDVM_mul
+Z241 !s100 dY<l_^Widj]@mQ@o=4BHL1
+Z242 I8d=mhOl3Kj4`Z8:W;2ZkW0
+Z243 VfbA=4T^3C52LkKLLC?VGi0
+R4
+Z244 w1441658286
+Z245 8H:/UROP research/verilog/src_newton/multiplier/SDVM_mul.v
+Z246 FH:/UROP research/verilog/src_newton/multiplier/SDVM_mul.v
+L0 1
+R8
+r1
+31
+R9
+R10
+R11
+R12
+Z247 n@s@d@v@m_mul
+!i10b 1
+!s85 0
+!s101 -O0
+vSelection
+Z248 !s100 hobhIcG@b:oTfDaaj:YL^1
+Z249 IDQM6ZTF`4Sig4DaUPmD[92
+Z250 VJQJlLPfZc__m[4KkCeI`03
+R4
+Z251 w1438455341
+Z252 8H:/UROP research/verilog/src_newton/multiplier/Selection.v
+Z253 FH:/UROP research/verilog/src_newton/multiplier/Selection.v
+L0 1
+R8
+r1
+31
+R9
+R10
+R11
+R12
+Z254 n@selection
+!i10b 1
+!s85 0
+!s101 -O0
+vsingle_clk_ram
+Z255 !s100 9eL<jdM`A9Z:3o:]l3lJI1
+Z256 IKUjm_HZ?ciTQABH<aJ0GU1
+Z257 Vc6fZ`6a8@dk[3L3CCeIE32
+R4
+Z258 w1441992436
+Z259 8H:/UROP research/verilog/src_newton/divider/single_clk_ram.v
+Z260 FH:/UROP research/verilog/src_newton/divider/single_clk_ram.v
+L0 1
+R8
+r1
+31
+R36
+R37
+R38
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vsingle_clk_ram_2bit
+Z261 !s100 OAQ9NC6YFmRcM?ch^j9G_1
+Z262 IB53YkzLY0N]ZC9mz3mBC60
+Z263 VO4a7g3jNL?@9IZ44l5:eh2
+R4
+Z264 w1441992458
+Z265 8H:/UROP research/verilog/src_newton/divider/single_clk_ram_2bit.v
+Z266 FH:/UROP research/verilog/src_newton/divider/single_clk_ram_2bit.v
+L0 1
+R8
+r1
+31
+R36
+R37
+R38
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vsingle_clk_ram_mul
+Z267 !s100 921@;3WGK>6XSIOA2z8H<0
+Z268 I3>GOV_X7n?z>NzLH[8hBV0
+Z269 VgbBa@hneK;oFDf7nze^kn0
+R4
+Z270 w1442145466
+Z271 8H:/UROP research/verilog/src_newton/multiplier/single_clk_ram_mul.v
+Z272 FH:/UROP research/verilog/src_newton/multiplier/single_clk_ram_mul.v
+L0 1
+R8
+r1
+31
+R9
+R10
+R11
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vsingle_clk_ram_tmp
+Z273 I7hGNCjoCc[2JDe4FEfj^A3
+Z274 V?KUOJ3Oj]QX?9bEBcNkIa0
+R4
+Z275 w1438267861
+Z276 8H:/UROP research/verilog/src/module single_clk_ram_tmp.v
+Z277 FH:/UROP research/verilog/src/module single_clk_ram_tmp.v
+L0 1
+R8
+r1
+31
+R19
+R20
+R21
+R12
+Z278 !s100 TAZ1L>E;2R3fQOB56?9C22
+!i10b 1
+!s85 0
+!s101 -O0
+vsix_bits_adder
+Z279 !s100 @08V?n^OARZ7_LTUO7Xfk3
+Z280 IYdN>03Lc9SZ6^E?=l8eCj1
+Z281 VA]b8ddK:bYKBYIMLgMoTM3
+R4
+Z282 w1440582281
+Z283 8H:/UROP research/verilog/src_newton/divider/six_bits_adder.v
+Z284 FH:/UROP research/verilog/src_newton/divider/six_bits_adder.v
+L0 1
+R8
+r1
+31
+R36
+R37
+R38
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vsubtraction
+Z285 !s100 X1o9]o2;<1_NDQ>hKYH533
+Z286 IDhOmddBWGRAE^QdW0E:FA3
+Z287 VUa`U>V7Fb?;Td;cWVROOB2
+R4
+Z288 w1442433896
+Z289 8H:/UROP research/verilog/src_newton/adder/subtraction.v
+Z290 FH:/UROP research/verilog/src_newton/adder/subtraction.v
+L0 1
+R8
+r1
+31
+Z291 !s90 -reportprogress|300|-work|work|-O0|H:/UROP research/verilog/src_newton/adder/subtraction.v|
+R12
+Z292 !s108 1442482438.711000
+Z293 !s107 H:/UROP research/verilog/src_newton/adder/subtraction.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsubtraction_four
+Z294 !s100 K;VXkAh:mc7Lk5:z8h;S<1
+Z295 I2J;e4B^18n8X;KgkjeCIF2
+Z296 VTZiXacg5AAEBRlHa[XEZg2
+R4
+Z297 w1442308248
+Z298 8H:/UROP research/verilog/src_newton/adder/subtraction_four.v
+Z299 FH:/UROP research/verilog/src_newton/adder/subtraction_four.v
+L0 1
+R8
+r1
+31
+Z300 !s90 -reportprogress|300|-work|work|-O0|H:/UROP research/verilog/src_newton/adder/subtraction_four.v|
+R12
+!i10b 1
+!s85 0
+Z301 !s108 1442482439.281000
+Z302 !s107 H:/UROP research/verilog/src_newton/adder/subtraction_four.v|
+!s101 -O0
+vsubtraction_three
+Z303 !s100 ka_zdVlObUe6C?hF9NRm71
+Z304 I=di@Jd6=F:;X_TOemCI6^0
+Z305 VzTn=@f<[16Gk^Y@hiRLN70
+R4
+Z306 w1442252474
+Z307 8H:/UROP research/verilog/src_newton/adder/subtraction_three.v
+Z308 FH:/UROP research/verilog/src_newton/adder/subtraction_three.v
+L0 1
+R8
+r1
+31
+Z309 !s90 -reportprogress|300|-work|work|-O0|H:/UROP research/verilog/src_newton/adder/subtraction_three.v|
+R12
+Z310 !s108 1442482439.102000
+Z311 !s107 H:/UROP research/verilog/src_newton/adder/subtraction_three.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsubtraction_two
+Z312 !s100 NYl]N<0z_XG0AoogFJMmK3
+Z313 Ik>CQIZlK5SP?[<H`R_ohE3
+Z314 VhVUGf^dTcJ9ZglZ0@6U0[1
+R4
+Z315 w1442436722
+Z316 8H:/UROP research/verilog/src_newton/adder/subtraction_two.v
+Z317 FH:/UROP research/verilog/src_newton/adder/subtraction_two.v
+L0 1
+R8
+r1
+31
+Z318 !s90 -reportprogress|300|-work|work|-O0|H:/UROP research/verilog/src_newton/adder/subtraction_two.v|
+R12
+Z319 !s108 1442482438.912000
+Z320 !s107 H:/UROP research/verilog/src_newton/adder/subtraction_two.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtestbench
+Z321 I0TiZWOQTYidG^KY<C_=KA0
+Z322 VhGfW:390DM[oDMzegDH9`2
+R4
+Z323 w1441720989
+Z324 8H:/UROP research/verilog/src_newton/testbench.v
+Z325 FH:/UROP research/verilog/src_newton/testbench.v
+L0 2
+R8
+r1
+31
+Z326 !s90 -reportprogress|300|-work|work|-O0|H:/UROP research/verilog/src_newton/testbench.v|
+R12
+Z327 !s100 8jU[XK2OhkM3URY>?^Bkf2
+Z328 !s108 1441721012.207000
+Z329 !s107 H:/UROP research/verilog/src_newton/testbench.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtestbench_test_handshake
+Z330 !s100 `HRGb[Y^OQ3R6n]_:cE_H3
+Z331 Iz;FQlg:Q?dTf2EEXM[hHH3
+Z332 V8P@:eVCQV1>l<VAViZ4Lh2
+R4
+Z333 w1442481395
+Z334 8H:/UROP research/verilog/src_newton/testbench_test_handshake.v
+Z335 FH:/UROP research/verilog/src_newton/testbench_test_handshake.v
+L0 2
+R8
+r1
+31
+Z336 !s90 -reportprogress|300|-work|work|-O0|H:/UROP research/verilog/src_newton/testbench_test_handshake.v|
+R12
+Z337 !s108 1442482437.146000
+Z338 !s107 H:/UROP research/verilog/src_newton/testbench_test_handshake.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtt
+Z339 ITX[UGB[e3eXo3l=Nmi0XE3
+Z340 VDdFR8=NTiHXV6HWFF:b>i1
+R4
+Z341 w1438268092
+Z342 8H:/UROP research/verilog/src/tt.v
+Z343 FH:/UROP research/verilog/src/tt.v
+L0 1
+R8
+r1
+31
+R19
+R20
+R21
+R12
+Z344 !s100 :[FS8A@lzF5c]]OKYDV[m0
+!i10b 1
+!s85 0
+!s101 -O0
+vV_block
+Z345 !s100 ozT_g8]kk^3eIoffhS7gK1
+Z346 IMWVJR0@TRS1=T=g>Wm]D`0
+Z347 VT4Th1HPRH@E;8cdU@NG^F0
+R4
+Z348 w1441707130
+Z349 8H:/UROP research/verilog/src_newton/divider/V_block.v
+Z350 FH:/UROP research/verilog/src_newton/divider/V_block.v
+L0 1
+R8
+r1
+31
+R36
+R37
+R38
+R12
+Z351 n@v_block
+!i10b 1
+!s85 0
+!s101 -O0
+vV_value_logic
+Z352 !s100 CXM^el[HDc@[ogM`lZlS;1
+Z353 I>M=Gjl?me:Mo@`;h3EhMm3
+Z354 V>T4iVZ>4kdFgIaPkeD]7J2
+R4
+Z355 w1441660959
+Z356 8H:/UROP research/verilog/src_newton/divider/V_value_logic.v
+Z357 FH:/UROP research/verilog/src_newton/divider/V_value_logic.v
+L0 1
+R8
+r1
+31
+R36
+R37
+R38
+R12
+Z358 n@v_value_logic
+!i10b 1
+!s85 0
+!s101 -O0
+vv_value_ram
+Z359 !s100 lEeEm>3O>MT=W_Q6^MHik3
+Z360 IW27HNF``Cf`Vg]XSRQlRL3
+Z361 V6cNPBEed`Gd;=[zRZUdNf2
+R4
+Z362 w1439044392
+Z363 8H:/UROP research/verilog/src_newton/multiplier/v_value_ram.v
+Z364 FH:/UROP research/verilog/src_newton/multiplier/v_value_ram.v
+L0 1
+R8
+r1
+31
+R9
+R10
+R11
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vw_value_logic_fix
+Z365 !s100 SZkQln8bFND6z[cbGQjKc2
+Z366 IOb<hiL^RGhM5TLCzN@4W;0
+Z367 Vha`OGY8WOei<8?<JkcYP63
+R4
+Z368 w1441979475
+Z369 8H:/UROP research/verilog/src_newton/divider/w_value_logic_fix.v
+Z370 FH:/UROP research/verilog/src_newton/divider/w_value_logic_fix.v
+L0 1
+R8
+r1
+31
+R36
+R37
+R38
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vw_value_ram
+Z371 !s100 mGRUZ6U0@I9@_^lI>0U`g3
+Z372 IWnE45W1@VM7V1=^PBmAEI0
+Z373 V=>jN>;me2ZF[28ilbA96]0
+R4
+Z374 w1441979469
+Z375 8H:/UROP research/verilog/src_newton/divider/w_value_ram.v
+Z376 FH:/UROP research/verilog/src_newton/divider/w_value_ram.v
+L0 1
+R8
+r1
+31
+R36
+R37
+R38
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vx_string_delay_control
+Z377 !s100 ge?E_Xaej0IGgR@RRTLTg2
+Z378 I6UWN]AYSoD?5UUiUTl?@m1
+Z379 Vh`VAFz`>m?zEg[KkR<OV_3
+R4
+Z380 w1441973438
+Z381 8H:/UROP research/verilog/src_newton/multiplier/x_string_delay_control.v
+Z382 FH:/UROP research/verilog/src_newton/multiplier/x_string_delay_control.v
+L0 1
+R8
+r1
+31
+R9
+R10
+R11
+R12
+!i10b 1
+!s85 0
+!s101 -O0

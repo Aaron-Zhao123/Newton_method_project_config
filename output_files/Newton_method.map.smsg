@@ -1,0 +1,5 @@
+Warning (10268): Verilog HDL information at x_string_delay_control.v(24): always construct contains both blocking and non-blocking assignments
+Warning (10268): Verilog HDL information at CA_REG_test.v(47): always construct contains both blocking and non-blocking assignments
+Warning (10268): Verilog HDL information at computation_control_mul.v(107): always construct contains both blocking and non-blocking assignments
+Warning (10268): Verilog HDL information at generate_CA_REG.v(309): always construct contains both blocking and non-blocking assignments
+Warning (10268): Verilog HDL information at V_value_logic.v(95): always construct contains both blocking and non-blocking assignments

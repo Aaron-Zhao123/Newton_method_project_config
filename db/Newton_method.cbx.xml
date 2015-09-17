@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="Newton_method">
+		<CBX_INST_ENTRY INSTANCE_NAME="|Newton_method|Multiplier_four:mul4|Adder_control_logic:adder_control_logic|v_value_ram:v_ram|altsyncram:mem_rtl_0" CBX_FILE_NAME="altsyncram_98i1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Newton_method|Multiplier_stage_two:mul3|Adder_control_logic:adder_control_logic|v_value_ram:v_ram|altsyncram:mem_rtl_0" CBX_FILE_NAME="altsyncram_98i1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Newton_method|On_line_divider_stage_two:divider2|generate_CA_REG:CA_REG|single_clk_ram:ram_p|altsyncram:mem_rtl_0" CBX_FILE_NAME="altsyncram_stj1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Newton_method|Multiplier_four:mul4|generate_CA_REG_mul:CA_REG|single_clk_ram_mul:ram1|altsyncram:mem_rtl_0" CBX_FILE_NAME="altsyncram_lck1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Newton_method|Multiplier_stage_two:mul3|generate_CA_REG_mul:CA_REG|single_clk_ram_mul:ram1|altsyncram:mem_rtl_0" CBX_FILE_NAME="altsyncram_lck1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Newton_method|On_line_divider:divider|generate_CA_REG:CA_REG|single_clk_ram_2bit:ram2|altsyncram:mem_rtl_0" CBX_FILE_NAME="altsyncram_cdk1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Newton_method|On_line_divider_stage_two:divider2|generate_CA_REG:CA_REG|single_clk_ram_2bit:ram4|altsyncram:mem_rtl_0" CBX_FILE_NAME="altsyncram_cdk1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Newton_method|Multiplier:mul1|Adder_control_logic:adder_control_logic|v_value_ram:v_ram|altsyncram:mem_rtl_0" CBX_FILE_NAME="altsyncram_98i1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Newton_method|On_line_divider:divider|generate_CA_REG:CA_REG|single_clk_ram:ram_p|altsyncram:mem_rtl_0" CBX_FILE_NAME="altsyncram_stj1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Newton_method|On_line_divider:divider|generate_CA_REG:CA_REG|single_clk_ram_2bit:ram3|altsyncram:mem_rtl_0" CBX_FILE_NAME="altsyncram_cdk1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Newton_method|On_line_divider_stage_two:divider2|generate_CA_REG:CA_REG|single_clk_ram_2bit:ram1|altsyncram:mem_rtl_0" CBX_FILE_NAME="altsyncram_cdk1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Newton_method|On_line_divider_stage_two:divider2|w_value_logic_fix:W_block|w_value_ram:w_ram|altsyncram:mem_rtl_0" CBX_FILE_NAME="altsyncram_inj1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Newton_method|Multiplier:mul1|generate_CA_REG_mul:CA_REG|single_clk_ram_mul:ram1|altsyncram:mem_rtl_0" CBX_FILE_NAME="altsyncram_lck1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Newton_method|Multiplier:mul2|Adder_control_logic:adder_control_logic|v_value_ram:v_ram|altsyncram:mem_rtl_0" CBX_FILE_NAME="altsyncram_98i1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Newton_method|On_line_divider:divider|generate_CA_REG:CA_REG|single_clk_ram_2bit:ram4|altsyncram:mem_rtl_0" CBX_FILE_NAME="altsyncram_cdk1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Newton_method|On_line_divider_stage_two:divider2|generate_CA_REG:CA_REG|single_clk_ram_2bit:ram2|altsyncram:mem_rtl_0" CBX_FILE_NAME="altsyncram_cdk1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Newton_method|Multiplier:mul2|generate_CA_REG_mul:CA_REG|single_clk_ram_mul:ram1|altsyncram:mem_rtl_0" CBX_FILE_NAME="altsyncram_lck1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Newton_method|On_line_divider:divider|generate_CA_REG:CA_REG|single_clk_ram_2bit:ram1|altsyncram:mem_rtl_0" CBX_FILE_NAME="altsyncram_cdk1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Newton_method|On_line_divider:divider|w_value_logic_fix:W_block|w_value_ram:w_ram|altsyncram:mem_rtl_0" CBX_FILE_NAME="altsyncram_inj1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Newton_method|On_line_divider_stage_two:divider2|generate_CA_REG:CA_REG|single_clk_ram_2bit:ram3|altsyncram:mem_rtl_0" CBX_FILE_NAME="altsyncram_cdk1.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

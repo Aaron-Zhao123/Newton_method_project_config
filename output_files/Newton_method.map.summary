@@ -1,0 +1,18 @@
+Analysis & Synthesis Status : Successful - Wed Sep 16 17:26:33 2015
+Quartus II 32-bit Version : 13.0.0 Build 156 04/24/2013 SJ Full Version
+Revision Name : Newton_method
+Top-level Entity Name : Newton_method
+Family : Cyclone IV GX
+Total logic elements : 2,261
+    Total combinational functions : 1,689
+    Dedicated logic registers : 1,075
+Total registers : 1075
+Total pins : 95
+Total virtual pins : 0
+Total memory bits : 18,432
+Embedded Multiplier 9-bit elements : 0
+Total GXB Receiver Channel PCS : 0
+Total GXB Receiver Channel PMA : 0
+Total GXB Transmitter Channel PCS : 0
+Total GXB Transmitter Channel PMA : 0
+Total PLLs : 0

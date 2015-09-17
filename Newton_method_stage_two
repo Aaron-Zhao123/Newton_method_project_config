@@ -1,0 +1,92 @@
+
+vlog -work work -O0 {H:/UROP research/verilog/src_newton/multiplier/*.v}
+vlog -work work -O0 {H:/UROP research/verilog/src_newton/testbench_test_handshake.v}
+
+vlog -work work -O0 {H:/UROP research/verilog/src_newton/divider/*.v}
+
+vlog -work work -O0 {H:/UROP research/verilog/src_newton/adder/On_line_adder.v}
+vlog -work work -O0 {H:/UROP research/verilog/src_newton/adder/D_flipflop.v}
+
+vlog -work work -O0 {H:/UROP research/verilog/src_newton/adder/full_adder.v}
+vlog -work work -O0 {H:/UROP research/verilog/src_newton/adder/subtraction.v}
+vlog -work work -O0 {H:/UROP research/verilog/src_newton/adder/subtraction_two.v}
+vlog -work work -O0 {H:/UROP research/verilog/src_newton/adder/subtraction_three.v}
+vlog -work work -O0 {H:/UROP research/verilog/src_newton/adder/subtraction_four.v}
+vlog -work work -O0 {H:/UROP research/verilog/Newton_method/Newton_method.v}
+view wave
+vsim work.testbench_test_handshake
+add wave -position end  sim:/testbench_test_handshake/x_value
+
+add wave -position end  sim:/testbench_test_handshake/operand_two
+
+add wave -position end  sim:/testbench_test_handshake/subtraend_one
+add wave -position end  sim:/testbench_test_handshake/minuend_one
+
+add wave -position end  sim:/testbench_test_handshake/diff_one
+add wave -position end  sim:/testbench_test_handshake/product_one
+add wave -position end  sim:/testbench_test_handshake/product_two
+
+
+add wave -position end  sim:/testbench_test_handshake/numerator_one
+add wave -position end  sim:/testbench_test_handshake/divisor_one
+add wave -position end  sim:/testbench_test_handshake/quotient_one
+
+add wave -position end  sim:/testbench_test_handshake/subtraend_two 
+add wave -position end  sim:/testbench_test_handshake/minuend_two
+add wave -position end  sim:/testbench_test_handshake/diff_two
+
+add wave -position end  sim:/testbench_test_handshake/mul_three
+add wave -position end  sim:/testbench_test_handshake/product_three
+
+
+add wave -position end  sim:/testbench_test_handshake/subtrahend_three
+add wave -position end  sim:/testbench_test_handshake/minuend_three
+add wave -position end  sim:/testbench_test_handshake/diff_three
+
+
+add wave -position end  sim:/testbench_test_handshake/mul_four
+add wave -position end  sim:/testbench_test_handshake/operand_four
+add wave -position end  sim:/testbench_test_handshake/product_four
+
+add wave -position end  sim:/testbench_test_handshake/numerator_two
+add wave -position end  sim:/testbench_test_handshake/divisor_two
+add wave -position end  sim:/testbench_test_handshake/quotient_two
+
+
+add wave -position end  sim:/testbench_test_handshake/subtrahend_four
+add wave -position end  sim:/testbench_test_handshake/minuend_four
+add wave -position end  sim:/testbench_test_handshake/diff_four
+
+add wave -position end  sim:/testbench_test_handshake/In_vd_sub_two
+add wave -position end  sim:/testbench_test_handshake/Out_rd_sub_two
+add wave -position end  sim:/testbench_test_handshake/In_rd_sub_two
+add wave -position end  sim:/testbench_test_handshake/Out_vd_sub_two
+
+
+add wave -position end  sim:/testbench_test_handshake/In_vd_mul_three
+add wave -position end  sim:/testbench_test_handshake/Out_rd_mul_three
+add wave -position end  sim:/testbench_test_handshake/In_rd_mul_three
+add wave -position end  sim:/testbench_test_handshake/Out_vd_mul_three
+
+add wave -position end  sim:/testbench_test_handshake/In_vd_sub_three
+add wave -position end  sim:/testbench_test_handshake/Out_rd_sub_three
+add wave -position end  sim:/testbench_test_handshake/In_rd_sub_three
+add wave -position end  sim:/testbench_test_handshake/Out_vd_sub_three
+
+
+add wave -position end  sim:/testbench_test_handshake/In_vd_mul_four
+add wave -position end  sim:/testbench_test_handshake/In_rd_mul_four
+add wave -position end  sim:/testbench_test_handshake/Out_vd_mul_four
+add wave -position end  sim:/testbench_test_handshake/Out_rd_mul_four
+
+add wave -position end  sim:/testbench_test_handshake/In_vd_div_two
+add wave -position end  sim:/testbench_test_handshake/In_rd_div_two
+add wave -position end  sim:/testbench_test_handshake/Out_vd_div_two
+add wave -position end  sim:/testbench_test_handshake/Out_rd_div_two
+
+add wave -position end  sim:/testbench_test_handshake/In_vd_sub_four
+add wave -position end  sim:/testbench_test_handshake/Out_rd_sub_four
+add wave -position end  sim:/testbench_test_handshake/In_rd_sub_four
+add wave -position end  sim:/testbench_test_handshake/Out_vd_sub_four
+
+run 10000ns

@@ -1,0 +1,20 @@
+
+State Machine - |Newton_method|Multiplier_four:mul4|computation_control_mul:FSM|stay
+Name stay.01 
+stay.00 0 
+stay.01 1 
+
+State Machine - |Newton_method|Multiplier_stage_two:mul3|computation_control_mul:FSM|stay
+Name stay.01 
+stay.00 0 
+stay.01 1 
+
+State Machine - |Newton_method|Multiplier:mul2|computation_control_mul:FSM|stay
+Name stay.01 
+stay.00 0 
+stay.01 1 
+
+State Machine - |Newton_method|Multiplier:mul1|computation_control_mul:FSM|stay
+Name stay.01 
+stay.00 0 
+stay.01 1 
